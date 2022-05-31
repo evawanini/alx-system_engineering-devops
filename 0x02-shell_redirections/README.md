@@ -1,0 +1,1 @@
+This is a README file showcasing my learning and understanding on Linux shell redirections
